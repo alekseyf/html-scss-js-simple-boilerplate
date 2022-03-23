@@ -1,6 +1,6 @@
 {
   "name": "html-scss-js-simple-boilerplate",
-  "version": "1.0.0",
+  "version": "0.1",
   "description": "Simple webpack 5 boilerplate for html-scss-js.",
   "private": true,
   "scripts": {
